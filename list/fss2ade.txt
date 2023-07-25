@@ -1,0 +1,1000 @@
+fountain#fountain#fountain#104
+taxi#taxi#truck;motortruck#83
+assult rifle#assult rifle#barrel;cask#111
+radio#radio#television;television;receiver;television;set;tv;tv;set;idiot;box;boob;tube;telly;goggle;box#89
+comb#comb#curtain;drape;drapery;mantle;pall#18
+box turtle#box turtle#box#41
+igloo#igloo#arcade;machine#78
+head cabbage#head cabbage#plant;flora;plant;life#17
+cottontail#cottontail#plant;flora;plant;life#17
+coho#coho#crt;screen#141
+ashtray#ashtray#tray#137
+joystick#joystick#arcade;machine#78
+sleeping bag#sleeping bag#bag#115
+jackfruit#jackfruit#flower#66
+trailer truck#trailer truck#truck;motortruck#83
+shower cap#shower cap#shower#145
+ibex#ibex#stool#110
+kinguin#kinguin#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+squirrel#squirrel#animal;animate;being;beast;brute;creature;fauna#126
+ac wall#ac wall#fence;fencing#32
+sidewinder#sidewinder#windowpane;window#8
+remote control#remote control#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+marshmallow#marshmallow#rock;stone#34
+bolotie#bolotie#sconce#134
+polar bear#polar bear#animal;animate;being;beast;brute;creature;fauna#126
+rock beauty#rock beauty#rock;stone#34
+tokyo tower#tokyo tower#chandelier;pendant;pendent#85
+wafer#wafer#oven#118
+red bayberry#red bayberry#flower#66
+electronic toothbrush#electronic toothbrush#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+hartebeest#hartebeest#plate#142
+cassette#cassette#car;auto;automobile;machine;motorcar#20
+oil filter#oil filter#tank;storage;tank#122
+bomb#bomb#tank;storage;tank#122
+walnut#walnut#tree#4
+toilet tissue#toilet tissue#toilet;can;commode;crapper;pot;potty;stool;throne#65
+memory stick#memory stick#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+wild boar#wild boar#animal;animate;being;beast;brute;creature;fauna#126
+cableways#cableways#television;television;receiver;television;set;tv;tv;set;idiot;box;boob;tube;telly;goggle;box#89
+chihuahua#chihuahua#animal;animate;being;beast;brute;creature;fauna#126
+envelope#envelope#bulletin;board;notice;board#144
+bison#bison#animal;animate;being;beast;brute;creature;fauna#126
+poker#poker#arcade;machine#78
+pubg lvl3helmet#pubg lvl3helmet#plaything;toy#108
+indian cobra#indian cobra#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+staffordshire#staffordshire#fence;fencing#32
+park bench#park bench#bench#69
+wombat#wombat#cradle#117
+black grouse#black grouse#animal;animate;being;beast;brute;creature;fauna#126
+submarine#submarine#boat#76
+washer#washer#washer;automatic;washer;washing;machine#107
+agama#agama#animal;animate;being;beast;brute;creature;fauna#126
+coyote#coyote#animal;animate;being;beast;brute;creature;fauna#126
+feeder#feeder#food;solid;food#120
+sarong#sarong#palm;palm;tree#72
+buckingham palace#buckingham palace#ottoman;pouf;pouffe;puff;hassock#97
+frog#frog#animal;animate;being;beast;brute;creature;fauna#126
+steam locomotive#steam locomotive#boat#76
+acorn#acorn#tree#4
+german pointer#german pointer#railing;rail#38
+obelisk#obelisk#bannister;banister;balustrade;balusters;handrail#95
+polecat#polecat#pole#93
+black swan#black swan#boat#76
+butterfly#butterfly#flower#66
+mountain tent#mountain tent#tent;collapsible;shelter#114
+gorilla#gorilla#animal;animate;being;beast;brute;creature;fauna#126
+sloth bear#sloth bear#animal;animate;being;beast;brute;creature;fauna#126
+aubergine#aubergine#bottle#98
+stinkhorn#stinkhorn#toilet;can;commode;crapper;pot;potty;stool;throne#65
+stole#stole#bag#115
+owl#owl#animal;animate;being;beast;brute;creature;fauna#126
+mooli#mooli#cushion#39
+pool table#pool table#pool;table;billiard;table;snooker;table#56
+collar#collar#animal;animate;being;beast;brute;creature;fauna#126
+lhasa apso#lhasa apso#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+ambulance#ambulance#toilet;can;commode;crapper;pot;potty;stool;throne#65
+spade#spade#barrel;cask#111
+pufferfish#pufferfish#tank;storage;tank#122
+paint brush#paint brush#painting;picture#22
+lark#lark#flower#66
+golf ball#golf ball#ball#119
+hock#hock#chest;of;drawers;chest;bureau;dresser#44
+fork#fork#plate#142
+drake#drake#rock;stone#34
+bee house#bee house#kitchen;island#73
+mooncake#mooncake#flower#66
+wok#wok#washer;automatic;washer;washing;machine#107
+cocacola#cocacola#coffee;table;cocktail;table#64
+water bike#water bike#bicycle;bike;wheel;cycle#127
+ladder#ladder#stairs;steps#53
+psp#psp#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+bassoon#bassoon#boat#76
+bear#bear#animal;animate;being;beast;brute;creature;fauna#126
+border terrier#border terrier#animal;animate;being;beast;brute;creature;fauna#126
+petri dish#petri dish#kitchen;island#73
+pill bottle#pill bottle#bottle#98
+aircraft carrier#aircraft carrier#airplane;aeroplane;plane#90
+panther#panther#animal;animate;being;beast;brute;creature;fauna#126
+canoe#canoe#boat#76
+baseball player#baseball player#person;individual;someone;somebody;mortal;soul#12
+turtle#turtle#animal;animate;being;beast;brute;creature;fauna#126
+espresso#espresso#coffee;table;cocktail;table#64
+throne#throne#bannister;banister;balustrade;balusters;handrail#95
+cornet#cornet#palm;palm;tree#72
+coucal#coucal#plant;flora;plant;life#17
+eletrical switch#eletrical switch#lamp#36
+bra#bra#chest;of;drawers;chest;bureau;dresser#44
+snail#snail#animal;animate;being;beast;brute;creature;fauna#126
+backpack#backpack#bag#115
+jacamar#jacamar#booth;cubicle;stall;kiosk#88
+scroll brush#scroll brush#curtain;drape;drapery;mantle;pall#18
+gliding lizard#gliding lizard#animal;animate;being;beast;brute;creature;fauna#126
+raft#raft#boat#76
+pinwheel#pinwheel#bicycle;bike;wheel;cycle#127
+grasshopper#grasshopper#flower#66
+green mamba#green mamba#palm;palm;tree#72
+eft newt#eft newt#canopy#106
+computer mouse#computer mouse#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+vine snake#vine snake#plant;flora;plant;life#17
+recreational vehicle#recreational vehicle#car;auto;automobile;machine;motorcar#20
+llama#llama#animal;animate;being;beast;brute;creature;fauna#126
+meerkat#meerkat#minibike;motorbike#116
+chainsaw#chainsaw#tree#4
+ferret#ferret#animal;animate;being;beast;brute;creature;fauna#126
+garbage can#garbage can#toilet;can;commode;crapper;pot;potty;stool;throne#65
+kangaroo#kangaroo#animal;animate;being;beast;brute;creature;fauna#126
+litchi#litchi#light;light;source#82
+carbonara#carbonara#bench#69
+housefinch#housefinch#bed#7
+modem#modem#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+tebby cat#tebby cat#animal;animate;being;beast;brute;creature;fauna#126
+thatch#thatch#palm;palm;tree#72
+face powder#face powder#bottle#98
+tomb#tomb#sculpture#132
+apple#apple#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+ladybug#ladybug#animal;animate;being;beast;brute;creature;fauna#126
+killer whale#killer whale#animal;animate;being;beast;brute;creature;fauna#126
+rocket#rocket#airplane;aeroplane;plane#90
+airship#airship#airplane;aeroplane;plane#90
+surfboard#surfboard#bathtub;bathing;tub;bath;tub#37
+lesser panda#lesser panda#animal;animate;being;beast;brute;creature;fauna#126
+jordan logo#jordan logo#basket;handbasket#112
+banana#banana#food;solid;food#120
+nail scissor#nail scissor#plate#142
+swab#swab#towel#81
+perfume#perfume#flower#66
+punching bag#punching bag#bag#115
+victor icon#victor icon#sculpture#132
+waffle iron#waffle iron#stove;kitchen;stove;range;kitchen;range;cooking;stove#71
+trimaran#trimaran#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+garlic#garlic#food;solid;food#120
+flute#flute#pot;flowerpot#125
+langur#langur#plant;flora;plant;life#17
+starfish#starfish#animal;animate;being;beast;brute;creature;fauna#126
+parallel bars#parallel bars#bar#77
+dandie dinmont#dandie dinmont#person;individual;someone;somebody;mortal;soul#12
+cosmetic brush#cosmetic brush#painting;picture#22
+screwdriver#screwdriver#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+brick card#brick card#chest;of;drawers;chest;bureau;dresser#44
+balance weight#balance weight#bicycle;bike;wheel;cycle#127
+hornet#hornet#animal;animate;being;beast;brute;creature;fauna#126
+carton#carton#sconce#134
+toothpaste#toothpaste#coffee;table;cocktail;table#64
+bracelet#bracelet#bicycle;bike;wheel;cycle#127
+egg tart#egg tart#pillow#57
+pencil sharpener2#pencil sharpener2#lamp#36
+swimming glasses#swimming glasses#glass;drinking;glass#147
+howler monkey#howler monkey#animal;animate;being;beast;brute;creature;fauna#126
+camel#camel#animal;animate;being;beast;brute;creature;fauna#126
+dragonfly#dragonfly#canopy#106
+lionfish#lionfish#animal;animate;being;beast;brute;creature;fauna#126
+convertible#convertible#car;auto;automobile;machine;motorcar#20
+mule#mule#basket;handbasket#112
+usb#usb#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+conch#conch#bannister;banister;balustrade;balusters;handrail#95
+papaya#papaya#buffet;counter;sideboard#99
+garbage truck#garbage truck#truck;motortruck#83
+dingo#dingo#toilet;can;commode;crapper;pot;potty;stool;throne#65
+radiator#radiator#radiator#146
+solar dish#solar dish#dishwasher;dish;washer;dishwashing;machine#129
+streetcar#streetcar#bus;autobus;coach;charabanc;double-decker;jitney;motorbus;motorcoach;omnibus;passenger;vehicle#80
+trilobite#trilobite#plate#142
+bouzouki#bouzouki#ottoman;pouf;pouffe;puff;hassock#97
+ringlet butterfly#ringlet butterfly#flower#66
+space shuttle#space shuttle#airplane;aeroplane;plane#90
+waffle#waffle#food;solid;food#120
+american staffordshire#american staffordshire#armchair#30
+violin#violin#towel#81
+flowerpot#flowerpot#flower#66
+forklift#forklift#truck;motortruck#83
+manx#manx#ship#103
+sundial#sundial#clock#148
+snowmobile#snowmobile#car;auto;automobile;machine;motorcar#20
+chickadee bird#chickadee bird#flower#66
+ruffed grouse#ruffed grouse#toilet;can;commode;crapper;pot;potty;stool;throne#65
+brick tea#brick tea#coffee;table;cocktail;table#64
+paddle#paddle#boat#76
+stove#stove#stove;kitchen;stove;range;kitchen;range;cooking;stove#71
+carousel#carousel#sculpture#132
+spatula#spatula#vase#135
+beaker#beaker#glass;drinking;glass#147
+gas pump#gas pump#tank;storage;tank#122
+lawn mower#lawn mower#truck;motortruck#83
+speaker#speaker#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+tank#tank#tank;storage;tank#122
+tresher#tresher#washer;automatic;washer;washing;machine#107
+kappa logo#kappa logo#palm;palm;tree#72
+hare#hare#animal;animate;being;beast;brute;creature;fauna#126
+tennis racket#tennis racket#ball#119
+shopping cart#shopping cart#basket;handbasket#112
+thimble#thimble#blind;screen#63
+tractor#tractor#truck;motortruck#83
+anemone fish#anemone fish#tank;storage;tank#122
+trolleybus#trolleybus#bus;autobus;coach;charabanc;double-decker;jitney;motorbus;motorcoach;omnibus;passenger;vehicle#80
+steak#steak#plate#142
+capuchin#capuchin#hood;exhaust;hood#133
+red breasted merganser#red breasted merganser#chest;of;drawers;chest;bureau;dresser#44
+golden retriever#golden retriever#animal;animate;being;beast;brute;creature;fauna#126
+light tube#light tube#light;light;source#82
+flatworm#flatworm#pillow#57
+melon seed#melon seed#plant;flora;plant;life#17
+digital watch#digital watch#monitor;monitoring;device#143
+jacko lantern#jacko lantern#light;light;source#82
+brown bear#brown bear#animal;animate;being;beast;brute;creature;fauna#126
+cairn#cairn#hood;exhaust;hood#133
+mushroom#mushroom#plant;flora;plant;life#17
+chalk#chalk#painting;picture#22
+skull#skull#pillow#57
+stapler#stapler#shelf#24
+potato#potato#food;solid;food#120
+telescope#telescope#mirror#27
+proboscis#proboscis#vase#135
+microphone#microphone#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+torii#torii#tank;storage;tank#122
+baseball bat#baseball bat#ball#119
+dhole#dhole#pot;flowerpot#125
+excavator#excavator#stairs;steps#53
+fig#fig#plant;flora;plant;life#17
+snake#snake#animal;animate;being;beast;brute;creature;fauna#126
+bradypod#bradypod#cradle#117
+pepitas#pepitas#coffee;table;cocktail;table#64
+prairie chicken#prairie chicken#food;solid;food#120
+scorpion#scorpion#animal;animate;being;beast;brute;creature;fauna#126
+shotgun#shotgun#barrel;cask#111
+bottle cap#bottle cap#bottle#98
+file cabinet#file cabinet#cabinet#10
+grey whale#grey whale#animal;animate;being;beast;brute;creature;fauna#126
+one-armed bandit#one-armed bandit#arcade;machine#78
+banded gecko#banded gecko#animal;animate;being;beast;brute;creature;fauna#126
+flying disc#flying disc#airplane;aeroplane;plane#90
+croissant#croissant#crt;screen#141
+toothbrush#toothbrush#towel#81
+miniskirt#miniskirt#minibike;motorbike#116
+pokermon ball#pokermon ball#ball#119
+gazelle#gazelle#canopy#106
+grey fox#grey fox#animal;animate;being;beast;brute;creature;fauna#126
+esport chair#esport chair#chair#19
+necklace#necklace#sculpture#132
+ptarmigan#ptarmigan#crt;screen#141
+watermelon#watermelon#plant;flora;plant;life#17
+besom#besom#cradle#117
+pomelo#pomelo#flower#66
+radio telescope#radio telescope#radiator#146
+studio couch#studio couch#sofa;couch;lounge#23
+black stork#black stork#sconce#134
+vestment#vestment#apparel;wearing;apparel;dress;clothes#92
+koala#koala#animal;animate;being;beast;brute;creature;fauna#126
+brambling#brambling#canopy#106
+muscle car#muscle car#car;auto;automobile;machine;motorcar#20
+window shade#window shade#windowpane;window#8
+space heater#space heater#radiator#146
+sunglasses#sunglasses#glass;drinking;glass#147
+motor scooter#motor scooter#minibike;motorbike#116
+ladyfinger#ladyfinger#palm;palm;tree#72
+pencil box#pencil box#box#41
+titi monkey#titi monkey#animal;animate;being;beast;brute;creature;fauna#126
+chicken wings#chicken wings#food;solid;food#120
+mount fuji#mount fuji#pole#93
+giant panda#giant panda#animal;animate;being;beast;brute;creature;fauna#126
+dart#dart#barrel;cask#111
+fire engine#fire engine#fireplace;hearth;open;fireplace#49
+running shoe#running shoe#apparel;wearing;apparel;dress;clothes#92
+dumbbell#dumbbell#ball#119
+donkey#donkey#animal;animate;being;beast;brute;creature;fauna#126
+loafer#loafer#washer;automatic;washer;washing;machine#107
+hard disk#hard disk#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+globe#globe#vase#135
+lifeboat#lifeboat#boat#76
+medical kit#medical kit#chest;of;drawers;chest;bureau;dresser#44
+brain coral#brain coral#plant;flora;plant;life#17
+paper towel#paper towel#towel#81
+dugong#dugong#rock;stone#34
+seatbelt#seatbelt#seat#31
+skunk#skunk#animal;animate;being;beast;brute;creature;fauna#126
+military vest#military vest#apparel;wearing;apparel;dress;clothes#92
+cocktail shaker#cocktail shaker#bottle#98
+zucchini#zucchini#kitchen;island#73
+quad drone#quad drone#airplane;aeroplane;plane#90
+ocicat#ocicat#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+shih-tzu#shih-tzu#animal;animate;being;beast;brute;creature;fauna#126
+teapot#teapot#pot;flowerpot#125
+tile roof#tile roof#tent;collapsible;shelter#114
+cheese burger#cheese burger#buffet;counter;sideboard#99
+handshower#handshower#television;television;receiver;television;set;tv;tv;set;idiot;box;boob;tube;telly;goggle;box#89
+red wolf#red wolf#animal;animate;being;beast;brute;creature;fauna#126
+stop sign#stop sign#signboard;sign#43
+mouse#mouse#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+battery#battery#light;light;source#82
+adidas logo2#adidas logo2#apparel;wearing;apparel;dress;clothes#92
+earplug#earplug#pillow#57
+hummingbird#hummingbird#animal;animate;being;beast;brute;creature;fauna#126
+brush pen#brush pen#painting;picture#22
+pistachio#pistachio#plant;flora;plant;life#17
+hamster#hamster#animal;animate;being;beast;brute;creature;fauna#126
+air strip#air strip#airplane;aeroplane;plane#90
+indian elephant#indian elephant#animal;animate;being;beast;brute;creature;fauna#126
+otter#otter#animal;animate;being;beast;brute;creature;fauna#126
+cucumber#cucumber#plant;flora;plant;life#17
+scabbard#scabbard#sconce#134
+hawthorn#hawthorn#tree#4
+bullet train#bullet train#truck;motortruck#83
+leopard#leopard#animal;animate;being;beast;brute;creature;fauna#126
+whale#whale#animal;animate;being;beast;brute;creature;fauna#126
+cream#cream#cushion#39
+chinese date#chinese date#clock#148
+jellyfish#jellyfish#animal;animate;being;beast;brute;creature;fauna#126
+lobster#lobster#animal;animate;being;beast;brute;creature;fauna#126
+skua#skua#sconce#134
+single log#single log#tree#4
+chicory#chicory#coffee;table;cocktail;table#64
+bagel#bagel#bag#115
+beacon#beacon#light;light;source#82
+pingpong racket#pingpong racket#plate#142
+spoon#spoon#food;solid;food#120
+yurt#yurt#crt;screen#141
+wallaby#wallaby#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+egret#egret#crt;screen#141
+christmas stocking#christmas stocking#apparel;wearing;apparel;dress;clothes#92
+mcdonald uncle#mcdonald uncle#kitchen;island#73
+wrench#wrench#bag#115
+spark plug#spark plug#car;auto;automobile;machine;motorcar#20
+triceratops#triceratops#countertop#70
+wall clock#wall clock#clock#148
+jinrikisha#jinrikisha#person;individual;someone;somebody;mortal;soul#12
+pickup#pickup#truck;motortruck#83
+rhinoceros#rhinoceros#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+swimming trunk#swimming trunk#boat#76
+band-aid#band-aid#rock;stone#34
+spotted salamander#spotted salamander#animal;animate;being;beast;brute;creature;fauna#126
+leeks#leeks#blind;screen#63
+marmot#marmot#plant;flora;plant;life#17
+warthog#warthog#animal;animate;being;beast;brute;creature;fauna#126
+cello#cello#tray#137
+stool#stool#stool#110
+chest#chest#chest;of;drawers;chest;bureau;dresser#44
+toilet plunger#toilet plunger#toilet;can;commode;crapper;pot;potty;stool;throne#65
+wardrobe#wardrobe#wardrobe;closet;press#35
+cannon#cannon#barrel;cask#111
+adidas logo1#adidas logo1#apparel;wearing;apparel;dress;clothes#92
+drumstick#drumstick#rock;stone#34
+lady slipper#lady slipper#cushion#39
+puma logo#puma logo#palm;palm;tree#72
+great wall#great wall#fence;fencing#32
+white shark#white shark#boat#76
+witch hat#witch hat#canopy#106
+vending machine#vending machine#bottle#98
+wreck#wreck#truck;motortruck#83
+chopsticks#chopsticks#kitchen;island#73
+garfish#garfish#tank;storage;tank#122
+african elephant#african elephant#animal;animate;being;beast;brute;creature;fauna#126
+children slide#children slide#stairs;steps#53
+hornbill#hornbill#plate#142
+zebra#zebra#animal;animate;being;beast;brute;creature;fauna#126
+boa constrictor#boa constrictor#radiator#146
+armour#armour#chest;of;drawers;chest;bureau;dresser#44
+pineapple#pineapple#food;solid;food#120
+angora#angora#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+brick#brick#fireplace;hearth;open;fireplace#49
+car wheel#car wheel#car;auto;automobile;machine;motorcar#20
+wallet#wallet#bag#115
+boston bull#boston bull#barrel;cask#111
+hyena#hyena#animal;animate;being;beast;brute;creature;fauna#126
+lynx#lynx#animal;animate;being;beast;brute;creature;fauna#126
+crash helmet#crash helmet#minibike;motorbike#116
+terrapin turtle#terrapin turtle#tank;storage;tank#122
+persian cat#persian cat#animal;animate;being;beast;brute;creature;fauna#126
+shift gear#shift gear#truck;motortruck#83
+cactus ball#cactus ball#ball#119
+fur coat#fur coat#blanket;cover#131
+plate#plate#plate#142
+pen#pen#fountain#104
+okra#okra#tank;storage;tank#122
+mario#mario#arcade;machine#78
+airedale#airedale#booth;cubicle;stall;kiosk#88
+cowboy hat#cowboy hat#truck;motortruck#83
+celery#celery#sconce#134
+macaque#macaque#animal;animate;being;beast;brute;creature;fauna#126
+candle#candle#lamp#36
+goose#goose#barrel;cask#111
+raccoon#raccoon#animal;animate;being;beast;brute;creature;fauna#126
+brasscica#brasscica#plant;flora;plant;life#17
+almond#almond#food;solid;food#120
+maotai bottle#maotai bottle#bottle#98
+soccer ball#soccer ball#ball#119
+sports car#sports car#car;auto;automobile;machine;motorcar#20
+tobacco pipe#tobacco pipe#pot;flowerpot#125
+water polo#water polo#boat#76
+eggnog#eggnog#pillow#57
+hook#hook#bag#115
+ostrich#ostrich#animal;animate;being;beast;brute;creature;fauna#126
+patas#patas#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+table lamp#table lamp#lamp#36
+teddy#teddy#booth;cubicle;stall;kiosk#88
+mongoose#mongoose#tree#4
+spoonbill#spoonbill#dishwasher;dish;washer;dishwashing;machine#129
+redheart#redheart#chest;of;drawers;chest;bureau;dresser#44
+crane#crane#cradle#117
+dinosaur#dinosaur#animal;animate;being;beast;brute;creature;fauna#126
+kitchen knife#kitchen knife#kitchen;island#73
+seal#seal#bag#115
+baboon#baboon#sconce#134
+golfcart#golfcart#basket;handbasket#112
+roller coaster#roller coaster#arcade;machine#78
+avocado#avocado#plant;flora;plant;life#17
+birdhouse#birdhouse#kitchen;island#73
+yorkshire terrier#yorkshire terrier#animal;animate;being;beast;brute;creature;fauna#126
+saluki#saluki#person;individual;someone;somebody;mortal;soul#12
+basketball#basketball#ball#119
+buckler#buckler#washer;automatic;washer;washing;machine#107
+harvester#harvester#food;solid;food#120
+afghan hound#afghan hound#animal;animate;being;beast;brute;creature;fauna#126
+beam bridge#beam bridge#railing;rail#38
+guinea pig#guinea pig#animal;animate;being;beast;brute;creature;fauna#126
+lorikeet#lorikeet#pot;flowerpot#125
+shakuhachi#shakuhachi#pole#93
+motarboard#motarboard#signboard;sign#43
+statue liberty#statue liberty#sculpture#132
+police car#police car#car;auto;automobile;machine;motorcar#20
+sulphur crested#sulphur crested#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+gourd#gourd#toilet;can;commode;crapper;pot;potty;stool;throne#65
+sombrero#sombrero#plant;flora;plant;life#17
+mailbox#mailbox#box#41
+adhensive tape#adhensive tape#curtain;drape;drapery;mantle;pall#18
+night snake#night snake#animal;animate;being;beast;brute;creature;fauna#126
+bushtit#bushtit#tree#4
+mouthpiece#mouthpiece#sculpture#132
+beaver#beaver#animal;animate;being;beast;brute;creature;fauna#126
+bathtub#bathtub#bathtub;bathing;tub;bath;tub#37
+printer#printer#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+cumquat#cumquat#pot;flowerpot#125
+orange#orange#flower#66
+cleaver#cleaver#sconce#134
+quill pen#quill pen#crt;screen#141
+panpipe#panpipe#sink#47
+diamond#diamond#rock;stone#34
+gypsy moth#gypsy moth#ottoman;pouf;pouffe;puff;hassock#97
+cauliflower#cauliflower#flower#66
+lampshade#lampshade#lamp#36
+cougar#cougar#animal;animate;being;beast;brute;creature;fauna#126
+traffic light#traffic light#traffic;light;traffic;signal;stoplight#136
+briefcase#briefcase#bookcase#62
+ballpoint#ballpoint#ball#119
+african grey#african grey#animal;animate;being;beast;brute;creature;fauna#126
+kremlin#kremlin#pole#93
+barometer#barometer#bar#77
+peacock#peacock#flower#66
+paper crane#paper crane#poster;posting;placard;notice;bill;card#100
+sunscreen#sunscreen#bottle#98
+tofu#tofu#toilet;can;commode;crapper;pot;potty;stool;throne#65
+bedlington terrier#bedlington terrier#animal;animate;being;beast;brute;creature;fauna#126
+snowball#snowball#ball#119
+carrot#carrot#food;solid;food#120
+tiger#tiger#animal;animate;being;beast;brute;creature;fauna#126
+mink#mink#minibike;motorbike#116
+cristo redentor#cristo redentor#crt;screen#141
+ladle#ladle#ball#119
+keyboard#keyboard#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+maraca#maraca#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+monitor#monitor#monitor;monitoring;device#143
+water snake#water snake#animal;animate;being;beast;brute;creature;fauna#126
+can opener#can opener#door;double;door#14
+mud turtle#mud turtle#animal;animate;being;beast;brute;creature;fauna#126
+bald eagle#bald eagle#barrel;cask#111
+carp#carp#boat#76
+cn tower#cn tower#pole#93
+egyptian cat#egyptian cat#animal;animate;being;beast;brute;creature;fauna#126
+hen of the woods#hen of the woods#tree#4
+measuring cup#measuring cup#coffee;table;cocktail;table#64
+roller skate#roller skate#bicycle;bike;wheel;cycle#127
+kite#kite#canopy#106
+sandwich cookies#sandwich cookies#buffet;counter;sideboard#99
+sandwich#sandwich#food;solid;food#120
+persimmon#persimmon#pot;flowerpot#125
+chess bishop#chess bishop#armchair#30
+coffin#coffin#pillow#57
+ruddy turnstone#ruddy turnstone#rock;stone#34
+prayer rug#prayer rug#curtain;drape;drapery;mantle;pall#18
+rain barrel#rain barrel#barrel;cask#111
+neck brace#neck brace#pillow#57
+nematode#nematode#animal;animate;being;beast;brute;creature;fauna#126
+rosehip#rosehip#ship#103
+dutch oven#dutch oven#oven#118
+goldfish#goldfish#animal;animate;being;beast;brute;creature;fauna#126
+blossom card#blossom card#flower#66
+dough#dough#food;solid;food#120
+trench coat#trench coat#blanket;cover#131
+sponge#sponge#pillow#57
+stupa#stupa#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+wash basin#wash basin#sink#47
+electric fan#electric fan#fan#139
+spring scroll#spring scroll#canopy#106
+potted plant#potted plant#plant;flora;plant;life#17
+sparrow#sparrow#animal;animate;being;beast;brute;creature;fauna#126
+car mirror#car mirror#mirror#27
+gecko#gecko#animal;animate;being;beast;brute;creature;fauna#126
+diaper#diaper#toilet;can;commode;crapper;pot;potty;stool;throne#65
+leatherback turtle#leatherback turtle#animal;animate;being;beast;brute;creature;fauna#126
+strainer#strainer#washer;automatic;washer;washing;machine#107
+guacamole#guacamole#plant;flora;plant;life#17
+microwave#microwave#microwave;microwave;oven#124
+bus#bus#bus;autobus;coach;charabanc;double-decker;jitney;motorbus;motorcoach;omnibus;passenger;vehicle#80
+hotel slipper#hotel slipper#cushion#39
+burj al#burj al#ottoman;pouf;pouffe;puff;hassock#97
+reflex camera#reflex camera#mirror#27
+abe's flyingfish#abe's flyingfish#airplane;aeroplane;plane#90
+oiltank car#oiltank car#car;auto;automobile;machine;motorcar#20
+doormat#doormat#door;double;door#14
+fish eagle#fish eagle#boat#76
+barber shaver#barber shaver#mirror#27
+motorbike#motorbike#minibike;motorbike#116
+feather clothes#feather clothes#apparel;wearing;apparel;dress;clothes#92
+wandering albatross#wandering albatross#tree#4
+rice cooker#rice cooker#pot;flowerpot#125
+delta wing#delta wing#airplane;aeroplane;plane#90
+fish#fish#animal;animate;being;beast;brute;creature;fauna#126
+nintendo switch#nintendo switch#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+bustard#bustard#cradle#117
+diver#diver#pool;table;billiard;table;snooker;table#56
+minicooper#minicooper#minibike;motorbike#116
+cathedrale paris#cathedrale paris#chandelier;pendant;pendent#85
+big ben#big ben#bar#77
+combination lock#combination lock#clock#148
+villa savoye#villa savoye#kitchen;island#73
+american alligator#american alligator#animal;animate;being;beast;brute;creature;fauna#126
+gym ball#gym ball#ball#119
+andean condor#andean condor#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+leggings#leggings#apparel;wearing;apparel;dress;clothes#92
+pyramid cube#pyramid cube#sculpture#132
+jet aircraft#jet aircraft#airplane;aeroplane;plane#90
+meatloaf#meatloaf#coffee;table;cocktail;table#64
+reel#reel#pool;table;billiard;table;snooker;table#56
+swan#swan#boat#76
+osprey#osprey#sconce#134
+crt screen#crt screen#crt;screen#141
+microscope#microscope#vase#135
+rubber eraser#rubber eraser#washer;automatic;washer;washing;machine#107
+arrow#arrow#barrel;cask#111
+monkey#monkey#animal;animate;being;beast;brute;creature;fauna#126
+mitten#mitten#blanket;cover#131
+spiderman#spiderman#animal;animate;being;beast;brute;creature;fauna#126
+parthenon#parthenon#sconce#134
+bat#bat#ball#119
+chess king#chess king#bannister;banister;balustrade;balusters;handrail#95
+sulphur butterfly#sulphur butterfly#flower#66
+quail egg#quail egg#clock#148
+oriole#oriole#plant;flora;plant;life#17
+iron man#iron man#arcade;machine#78
+wooden boat#wooden boat#boat#76
+anise#anise#plant;flora;plant;life#17
+steering wheel#steering wheel#truck;motortruck#83
+groenendael#groenendael#plate#142
+dwarf beans#dwarf beans#coffee;table;cocktail;table#64
+pteropus#pteropus#pole#93
+chalk brush#chalk brush#painting;picture#22
+bloodhound#bloodhound#animal;animate;being;beast;brute;creature;fauna#126
+moon#moon#rock;stone#34
+english foxhound#english foxhound#animal;animate;being;beast;brute;creature;fauna#126
+boxing gloves#boxing gloves#bag#115
+peregine falcon#peregine falcon#animal;animate;being;beast;brute;creature;fauna#126
+pyraminx#pyraminx#bottle#98
+cicada#cicada#bar#77
+screw#screw#plate#142
+shower curtain#shower curtain#curtain;drape;drapery;mantle;pall#18
+tredmill#tredmill#crt;screen#141
+bulb#bulb#lamp#36
+bell pepper#bell pepper#food;solid;food#120
+lemur catta#lemur catta#animal;animate;being;beast;brute;creature;fauna#126
+doughnut#doughnut#food;solid;food#120
+twin tower#twin tower#cradle#117
+astronaut#astronaut#person;individual;someone;somebody;mortal;soul#12
+nintendo 3ds#nintendo 3ds#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+fennel bulb#fennel bulb#lamp#36
+indri#indri#kitchen;island#73
+captain america shield#captain america shield#ship#103
+kunai#kunai#palm;palm;tree#72
+broom#broom#toilet;can;commode;crapper;pot;potty;stool;throne#65
+iphone#iphone#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+earphone1#earphone1#rock;stone#34
+flying squirrel#flying squirrel#airplane;aeroplane;plane#90
+onion#onion#blanket;cover#131
+vinyl#vinyl#glass;drinking;glass#147
+sydney opera house#sydney opera house#kitchen;island#73
+oyster#oyster#food;solid;food#120
+harmonica#harmonica#lamp#36
+egg#egg#food;solid;food#120
+breast pump#breast pump#chest;of;drawers;chest;bureau;dresser#44
+guitar#guitar#rock;stone#34
+potato chips#potato chips#food;solid;food#120
+tunnel#tunnel#stairs;steps#53
+cuckoo#cuckoo#flower#66
+rubick cube#rubick cube#booth;cubicle;stall;kiosk#88
+plastic bag#plastic bag#bag#115
+phonograph#phonograph#sculpture#132
+net surface shoes#net surface shoes#apparel;wearing;apparel;dress;clothes#92
+goldfinch#goldfinch#palm;palm;tree#72
+ipad#ipad#screen;door;screen#58
+mite predator#mite predator#animal;animate;being;beast;brute;creature;fauna#126
+coffee mug#coffee mug#coffee;table;cocktail;table#64
+golden plover#golden plover#flower#66
+f1 racing#f1 racing#car;auto;automobile;machine;motorcar#20
+lapwing#lapwing#palm;palm;tree#72
+nintendo gba#nintendo gba#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+pizza#pizza#food;solid;food#120
+rally car#rally car#car;auto;automobile;machine;motorcar#20
+drilling platform#drilling platform#pole#93
+cd#cd#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+fly#fly#airplane;aeroplane;plane#90
+magpie bird#magpie bird#barrel;cask#111
+leaf fan#leaf fan#fan#139
+little blue heron#little blue heron#canopy#106
+carriage#carriage#curtain;drape;drapery;mantle;pall#18
+moist proof pad#moist proof pad#cushion#39
+flying snakes#flying snakes#airplane;aeroplane;plane#90
+dart target#dart target#barrel;cask#111
+warehouse tray#warehouse tray#tray#137
+nintendo wiiu#nintendo wiiu#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+chiffon cake#chiffon cake#flower#66
+bath ball#bath ball#ball#119
+manatee#manatee#plant;flora;plant;life#17
+cloud#cloud#awning;sunshade;sunblind#86
+marimba#marimba#pot;flowerpot#125
+eagle#eagle#barrel;cask#111
+ruler#ruler#counter#45
+soymilk machine#soymilk machine#refrigerator;icebox#50
+sled#sled#washer;automatic;washer;washing;machine#107
+seagull#seagull#animal;animate;being;beast;brute;creature;fauna#126
+glider flyingfish#glider flyingfish#airplane;aeroplane;plane#90
+doublebus#doublebus#bus;autobus;coach;charabanc;double-decker;jitney;motorbus;motorcoach;omnibus;passenger;vehicle#80
+transport helicopter#transport helicopter#airplane;aeroplane;plane#90
+window screen#window screen#screen;door;screen#58
+truss bridge#truss bridge#fence;fencing#32
+wasp#wasp#flower#66
+snowman#snowman#truck;motortruck#83
+poached egg#poached egg#pillow#57
+strawberry#strawberry#plant;flora;plant;life#17
+spinach#spinach#plant;flora;plant;life#17
+earphone2#earphone2#rock;stone#34
+downy pitch#downy pitch#ball#119
+taj mahal#taj mahal#ottoman;pouf;pouffe;puff;hassock#97
+rocking chair#rocking chair#chair#19
+cablestayed bridge#cablestayed bridge#fence;fencing#32
+sealion#sealion#toilet;can;commode;crapper;pot;potty;stool;throne#65
+banana boat#banana boat#boat#76
+pheasant#pheasant#animal;animate;being;beast;brute;creature;fauna#126
+stone lion#stone lion#rock;stone#34
+electronic stove#electronic stove#stove;kitchen;stove;range;kitchen;range;cooking;stove#71
+fox#fox#television;television;receiver;television;set;tv;tv;set;idiot;box;boob;tube;telly;goggle;box#89
+iguana#iguana#plant;flora;plant;life#17
+rugby ball#rugby ball#ball#119
+hang glider#hang glider#canopy#106
+water buffalo#water buffalo#animal;animate;being;beast;brute;creature;fauna#126
+lotus#lotus#plant;flora;plant;life#17
+paper plane#paper plane#airplane;aeroplane;plane#90
+missile#missile#airplane;aeroplane;plane#90
+flamingo#flamingo#fireplace;hearth;open;fireplace#49
+american chamelon#american chamelon#sconce#134
+kart#kart#barrel;cask#111
+chinese knot#chinese knot#fence;fencing#32
+cabbage butterfly#cabbage butterfly#flower#66
+key#key#door;double;door#14
+church#church#curtain;drape;drapery;mantle;pall#18
+tiltrotor#tiltrotor#swivel;chair#75
+helicopter#helicopter#airplane;aeroplane;plane#90
+french fries#french fries#food;solid;food#120
+water heater#water heater#radiator#146
+snow leopard#snow leopard#wardrobe;closet;press#35
+goblet#goblet#sconce#134
+fan#fan#fan#139
+snowplow#snowplow#truck;motortruck#83
+leafhopper#leafhopper#plant;flora;plant;life#17
+pspgo#pspgo#arcade;machine#78
+black bear#black bear#animal;animate;being;beast;brute;creature;fauna#126
+quail#quail#animal;animate;being;beast;brute;creature;fauna#126
+condor#condor#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+chandelier#chandelier#chandelier;pendant;pendent#85
+hair razor#hair razor#pillow#57
+white wolf#white wolf#animal;animate;being;beast;brute;creature;fauna#126
+toaster#toaster#oven#118
+pidan#pidan#tank;storage;tank#122
+pyramid#pyramid#sculpture#132
+chicken leg#chicken leg#chair#19
+letter opener#letter opener#door;double;door#14
+apple icon#apple icon#tray#137
+porcupine#porcupine#flower#66
+chicken#chicken#food;solid;food#120
+stingray#stingray#bottle#98
+warplane#warplane#tank;storage;tank#122
+windmill#windmill#pole#93
+bamboo slip#bamboo slip#palm;palm;tree#72
+wig#wig#wardrobe;closet;press#35
+flying geckos#flying geckos#animal;animate;being;beast;brute;creature;fauna#126
+stonechat#stonechat#rock;stone#34
+haddock#haddock#barrel;cask#111
+australian terrier#australian terrier#animal;animate;being;beast;brute;creature;fauna#126
+hover board#hover board#signboard;sign#43
+siamang#siamang#van#102
+canton tower#canton tower#fireplace;hearth;open;fireplace#49
+santa sledge#santa sledge#tree#4
+arch bridge#arch bridge#stairs;steps#53
+curlew#curlew#pillow#57
+sushi#sushi#food;solid;food#120
+beet root#beet root#tree#4
+accordion#accordion#ottoman;pouf;pouffe;puff;hassock#97
+leaf egg#leaf egg#plant;flora;plant;life#17
+stealth aircraft#stealth aircraft#airplane;aeroplane;plane#90
+stork#stork#sconce#134
+bucket#bucket#toilet;can;commode;crapper;pot;potty;stool;throne#65
+hawk#hawk#barrel;cask#111
+chess queen#chess queen#bannister;banister;balustrade;balusters;handrail#95
+ocarina#ocarina#plant;flora;plant;life#17
+knife#knife#door;double;door#14
+whippet#whippet#animal;animate;being;beast;brute;creature;fauna#126
+cantilever bridge#cantilever bridge#railing;rail#38
+may bug#may bug#bulletin;board;notice;board#144
+wagtail#wagtail#crt;screen#141
+leather shoes#leather shoes#apparel;wearing;apparel;dress;clothes#92
+wheelchair#wheelchair#chair#19
+shumai#shumai#coffee;table;cocktail;table#64
+speedboat#speedboat#boat#76
+vacuum cup#vacuum cup#coffee;table;cocktail;table#64
+chess knight#chess knight#booth;cubicle;stall;kiosk#88
+pumpkin pie#pumpkin pie#oven#118
+wooden spoon#wooden spoon#vase#135
+bamboo dragonfly#bamboo dragonfly#canopy#106
+ganeva chair#ganeva chair#chair#19
+soap#soap#washer;automatic;washer;washing;machine#107
+clearwing flyingfish#clearwing flyingfish#airplane;aeroplane;plane#90
+pencil sharpener1#pencil sharpener1#lamp#36
+cricket#cricket#ball#119
+photocopier#photocopier#painting;picture#22
+nintendo sp#nintendo sp#arcade;machine#78
+samarra mosque#samarra mosque#ottoman;pouf;pouffe;puff;hassock#97
+clam#clam#palm;palm;tree#72
+charge battery#charge battery#pool;table;billiard;table;snooker;table#56
+flying frog#flying frog#airplane;aeroplane;plane#90
+ferrari911#ferrari911#car;auto;automobile;machine;motorcar#20
+polo shirt#polo shirt#apparel;wearing;apparel;dress;clothes#92
+echidna#echidna#plant;flora;plant;life#17
+coin#coin#bottle#98
+tower pisa#tower pisa#pole#93
+handcuff#handcuff#palm;palm;tree#72
+mortar#mortar#pot;flowerpot#125
+matchstick#matchstick#plaything;toy#108
+wine bottle#wine bottle#bottle#98
+dowitcher#dowitcher#bannister;banister;balustrade;balusters;handrail#95
+triumphal arch#triumphal arch#sculpture#132
+gyromitra#gyromitra#stove;kitchen;stove;range;kitchen;range;cooking;stove#71
+hatchet#hatchet#tent;collapsible;shelter#114
+airliner#airliner#airplane;aeroplane;plane#90
+broccoli#broccoli#food;solid;food#120
+olive#olive#plant;flora;plant;life#17
+pubg lvl3backpack#pubg lvl3backpack#barrel;cask#111
+calculator#calculator#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+toucan#toucan#plant;flora;plant;life#17
+shovel#shovel#rock;stone#34
+sewing machine#sewing machine#washer;automatic;washer;washing;machine#107
+icecream#icecream#countertop#70
+woodpecker#woodpecker#tree#4
+pig#pig#animal;animate;being;beast;brute;creature;fauna#126
+relay stick#relay stick#railing;rail#38
+mcdonald sign#mcdonald sign#signboard;sign#43
+cpu#cpu#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+peanut#peanut#food;solid;food#120
+pumpkin#pumpkin#flower#66
+sturgeon#sturgeon#boat#76
+hammer#hammer#barrel;cask#111
+hami melon#hami melon#coffee;table;cocktail;table#64
+squirrel monkey#squirrel monkey#animal;animate;being;beast;brute;creature;fauna#126
+shuriken#shuriken#pot;flowerpot#125
+power drill#power drill#barrel;cask#111
+pingpong ball#pingpong ball#ball#119
+crocodile#crocodile#animal;animate;being;beast;brute;creature;fauna#126
+carambola#carambola#coffee;table;cocktail;table#64
+monarch butterfly#monarch butterfly#flower#66
+drum#drum#rock;stone#34
+water tower#water tower#fountain#104
+panda#panda#animal;animate;being;beast;brute;creature;fauna#126
+toilet brush#toilet brush#toilet;can;commode;crapper;pot;potty;stool;throne#65
+pay phone#pay phone#cradle#117
+yonex icon#yonex icon#tray#137
+cricketball#cricketball#ball#119
+revolver#revolver#barrel;cask#111
+chimpanzee#chimpanzee#animal;animate;being;beast;brute;creature;fauna#126
+crab#crab#animal;animate;being;beast;brute;creature;fauna#126
+corn#corn#food;solid;food#120
+baseball#baseball#ball#119
+rabbit#rabbit#animal;animate;being;beast;brute;creature;fauna#126
+croquet ball#croquet ball#ball#119
+artichoke#artichoke#flower#66
+abacus#abacus#fountain#104
+harp#harp#lamp#36
+bell#bell#booth;cubicle;stall;kiosk#88
+gas tank#gas tank#tank;storage;tank#122
+scissors#scissors#sculpture#132
+vase#vase#vase#135
+upright piano#upright piano#desk#33
+typewriter#typewriter#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+bittern#bittern#pot;flowerpot#125
+impala#impala#truck;motortruck#83
+tray#tray#tray#137
+fire hydrant#fire hydrant#tank;storage;tank#122
+beer bottle#beer bottle#bottle#98
+sock#sock#blanket;cover#131
+soup bowl#soup bowl#toilet;can;commode;crapper;pot;potty;stool;throne#65
+spider#spider#animal;animate;being;beast;brute;creature;fauna#126
+cherry#cherry#tree#4
+macaw#macaw#animal;animate;being;beast;brute;creature;fauna#126
+toilet seat#toilet seat#toilet;can;commode;crapper;pot;potty;stool;throne#65
+fire balloon#fire balloon#fireplace;hearth;open;fireplace#49
+french ball#french ball#ball#119
+fox squirrel#fox squirrel#animal;animate;being;beast;brute;creature;fauna#126
+volleyball#volleyball#ball#119
+cornmeal#cornmeal#palm;palm;tree#72
+folding chair#folding chair#chair#19
+pubg airdrop#pubg airdrop#canopy#106
+beagle#beagle#animal;animate;being;beast;brute;creature;fauna#126
+skateboard#skateboard#signboard;sign#43
+narcissus#narcissus#mirror#27
+whiptail#whiptail#barrel;cask#111
+cup#cup#coffee;table;cocktail;table#64
+arabian camel#arabian camel#animal;animate;being;beast;brute;creature;fauna#126
+badger#badger#animal;animate;being;beast;brute;creature;fauna#126
+stopwatch#stopwatch#monitor;monitoring;device#143
+ab wheel#ab wheel#bicycle;bike;wheel;cycle#127
+ox#ox#bag#115
+lettuce#lettuce#plant;flora;plant;life#17
+monocycle#monocycle#bicycle;bike;wheel;cycle#127
+redshank#redshank#ball#119
+vulture#vulture#pole#93
+whistle#whistle#flag#149
+smoothing iron#smoothing iron#awning;sunshade;sunblind#86
+mashed potato#mashed potato#food;solid;food#120
+conveyor#conveyor#basket;handbasket#112
+yoga pad#yoga pad#cushion#39
+tow truck#tow truck#truck;motortruck#83
+siamese cat#siamese cat#animal;animate;being;beast;brute;creature;fauna#126
+cigar#cigar#barrel;cask#111
+white stork#white stork#sconce#134
+sniper rifle#sniper rifle#barrel;cask#111
+stretcher#stretcher#washer;automatic;washer;washing;machine#107
+tulip#tulip#flower#66
+handkerchief#handkerchief#towel#81
+basset#basset#boat#76
+iceberg#iceberg#boat#76
+gibbon#gibbon#animal;animate;being;beast;brute;creature;fauna#126
+lacewing#lacewing#palm;palm;tree#72
+thrush#thrush#toilet;can;commode;crapper;pot;potty;stool;throne#65
+cheetah#cheetah#animal;animate;being;beast;brute;creature;fauna#126
+bighorn sheep#bighorn sheep#animal;animate;being;beast;brute;creature;fauna#126
+espresso maker#espresso maker#coffee;table;cocktail;table#64
+pretzel#pretzel#food;solid;food#120
+english setter#english setter#washer;automatic;washer;washing;machine#107
+sandbar#sandbar#bar#77
+cheese#cheese#food;solid;food#120
+daisy#daisy#flower#66
+arctic fox#arctic fox#animal;animate;being;beast;brute;creature;fauna#126
+briard#briard#pool;table;billiard;table;snooker;table#56
+colubus#colubus#chair#19
+balance beam#balance beam#railing;rail#38
+coffeepot#coffeepot#coffee;table;cocktail;table#64
+soap dispenser#soap dispenser#washer;automatic;washer;washing;machine#107
+yawl#yawl#hood;exhaust;hood#133
+consomme#consomme#apparel;wearing;apparel;dress;clothes#92
+parking meter#parking meter#traffic;light;traffic;signal;stoplight#136
+cactus#cactus#plant;flora;plant;life#17
+turnstile#turnstile#tray#137
+taro#taro#bag#115
+fire screen#fire screen#screen;door;screen#58
+digital clock#digital clock#clock#148
+rose#rose#flower#66
+pomegranate#pomegranate#plant;flora;plant;life#17
+bee eater#bee eater#animal;animate;being;beast;brute;creature;fauna#126
+schooner#schooner#boat#76
+ski mask#ski mask#apparel;wearing;apparel;dress;clothes#92
+jay bird#jay bird#van#102
+plaice#plaice#sconce#134
+red fox#red fox#animal;animate;being;beast;brute;creature;fauna#126
+syringe#syringe#glass;drinking;glass#147
+camomile#camomile#plant;flora;plant;life#17
+pickelhaube#pickelhaube#bag#115
+blenheim spaniel#blenheim spaniel#animal;animate;being;beast;brute;creature;fauna#126
+pear#pear#plant;flora;plant;life#17
+parachute#parachute#airplane;aeroplane;plane#90
+common newt#common newt#windowpane;window#8
+bowtie#bowtie#chest;of;drawers;chest;bureau;dresser#44
+cigarette#cigarette#car;auto;automobile;machine;motorcar#20
+oscilloscope#oscilloscope#monitor;monitoring;device#143
+laptop#laptop#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+african crocodile#african crocodile#animal;animate;being;beast;brute;creature;fauna#126
+apron#apron#kitchen;island#73
+coconut#coconut#palm;palm;tree#72
+sandal#sandal#rock;stone#34
+kwanyin#kwanyin#basket;handbasket#112
+lion#lion#animal;animate;being;beast;brute;creature;fauna#126
+eel#eel#boat#76
+balloon#balloon#ball#119
+crepe#crepe#crt;screen#141
+armadillo#armadillo#ashcan;trash;can;garbage;can;wastebin;ash;bin;ash-bin;ashbin;dustbin;trash;barrel;trash;bin#138
+kazoo#kazoo#bag#115
+lemon#lemon#plant;flora;plant;life#17
+spider monkey#spider monkey#animal;animate;being;beast;brute;creature;fauna#126
+tape player#tape player#television;television;receiver;television;set;tv;tv;set;idiot;box;boob;tube;telly;goggle;box#89
+ipod#ipod#computer;computing;machine;computing;device;data;processor;electronic;computer;information;processing;system#74
+bee#bee#animal;animate;being;beast;brute;creature;fauna#126
+sea cucumber#sea cucumber#boat#76
+suitcase#suitcase#bag#115
+television#television#television;television;receiver;television;set;tv;tv;set;idiot;box;boob;tube;telly;goggle;box#89
+pillow#pillow#pillow#57
+banjo#banjo#ottoman;pouf;pouffe;puff;hassock#97
+rock snake#rock snake#rock;stone#34
+partridge#partridge#oven#118
+platypus#platypus#animal;animate;being;beast;brute;creature;fauna#126
+lycaenid butterfly#lycaenid butterfly#flower#66
+pinecone#pinecone#tree#4
+conversion plug#conversion plug#fountain#104
+wolf#wolf#animal;animate;being;beast;brute;creature;fauna#126
+frying pan#frying pan#stove;kitchen;stove;range;kitchen;range;cooking;stove#71
+timber wolf#timber wolf#tree#4
+bluetick#bluetick#signboard;sign#43
+crayon#crayon#painting;picture#22
+giant schnauzer#giant schnauzer#sconce#134
+orang#orang#palm;palm;tree#72
+scarerow#scarerow#tree#4
+kobe logo#kobe logo#ball#119
+loguat#loguat#bed#7
+saxophone#saxophone#rock;stone#34
+ceiling fan#ceiling fan#fan#139
+cardoon#cardoon#plate#142
+equestrian helmet#equestrian helmet#bicycle;bike;wheel;cycle#127
+louvre pyramid#louvre pyramid#sculpture#132
+hotdog#hotdog#animal;animate;being;beast;brute;creature;fauna#126
+ironing board#ironing board#stove;kitchen;stove;range;kitchen;range;cooking;stove#71
+razor#razor#glass;drinking;glass#147
+nagoya castle#nagoya castle#chandelier;pendant;pendent#85
+loggerhead turtle#loggerhead turtle#canopy#106
+lipstick#lipstick#flower#66
+cradle#cradle#cradle#117
+strongbox#strongbox#box#41
+raven#raven#van#102
+kit fox#kit fox#canopy#106
+albatross#albatross#tree#4
+flat-coated retriever#flat-coated retriever#animal;animate;being;beast;brute;creature;fauna#126
+beer glass#beer glass#glass;drinking;glass#147
+ice lolly#ice lolly#bottle#98
+sungnyemun#sungnyemun#plant;flora;plant;life#17
+totem pole#totem pole#pole#93
+vacuum#vacuum#bag#115
+bolete#bolete#pool;table;billiard;table;snooker;table#56
+mango#mango#plant;flora;plant;life#17
+ginger#ginger#flower#66
+weasel#weasel#animal;animate;being;beast;brute;creature;fauna#126
+cabbage#cabbage#plant;flora;plant;life#17
+refrigerator#refrigerator#refrigerator;icebox#50
+school bus#school bus#bus;autobus;coach;charabanc;double-decker;jitney;motorbus;motorcoach;omnibus;passenger;vehicle#80
+hippo#hippo#toilet;can;commode;crapper;pot;potty;stool;throne#65
+tiger cat#tiger cat#animal;animate;being;beast;brute;creature;fauna#126
+saltshaker#saltshaker#washer;automatic;washer;washing;machine#107
+piano keyboard#piano keyboard#desk#33
+windsor tie#windsor tie#basket;handbasket#112
+sea urchin#sea urchin#boat#76
+microsd#microsd#palm;palm;tree#72
+barbell#barbell#bar#77
+swim ring#swim ring#pool;table;billiard;table;snooker;table#56
+bulbul bird#bulbul bird#flower#66
+water ouzel#water ouzel#fountain#104
+ac ground#ac ground#airplane;aeroplane;plane#90
+sweatshirt#sweatshirt#apparel;wearing;apparel;dress;clothes#92
+umbrella#umbrella#canopy#106
+hair drier#hair drier#washer;automatic;washer;washing;machine#107
+hammerhead shark#hammerhead shark#barrel;cask#111
+tomato#tomato#plant;flora;plant;life#17
+projector#projector#monitor;monitoring;device#143
+cushion#cushion#cushion#39
+dishwasher#dishwasher#dishwasher;dish;washer;dishwashing;machine#129
+three-toed sloth#three-toed sloth#seat#31
+tiger shark#tiger shark#animal;animate;being;beast;brute;creature;fauna#126
+har gow#har gow#washer;automatic;washer;washing;machine#107
+baby#baby#fan#139
+thor's hammer#thor's hammer#barrel;cask#111
+nike logo#nike logo#apparel;wearing;apparel;dress;clothes#92
