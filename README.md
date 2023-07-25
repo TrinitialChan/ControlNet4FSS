@@ -27,3 +27,7 @@ python FSSpregenerate.py --st 0 --end -1 --imgdir /data/user6/coco/ --maskdir /d
 ```
 Please refer to the source code for detailed argument functions.
 
+## :trophy: Try DifFSS on FSS models
+
+The DifFSS method can be easily applied to existing FSS models, please refer to one of our implementations on BAM [here](https://github.com/TrinitialChan/DifFSS-BAM).
+
